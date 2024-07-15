@@ -1,0 +1,10 @@
+algo: sac
+hidden_dim: 448
+actor_lr: 0.00923806995090272
+critic_lr: 0.005525395919050468
+gamma: 0.6076709971896652
+tau: 0.39206728893677195
+episodes: 32
+capacity: 25307
+batch_size: 239
+seed: 1
